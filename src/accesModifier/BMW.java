@@ -12,8 +12,8 @@ public class BMW extends Car{
 		b.color="Blue";
 		b.licenseNumber=123432;
 		
-		
-
+		//bmw class class is extended from car class.
+       System.out.println("print nothing");
 	}
 
 }
